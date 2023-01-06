@@ -20,7 +20,7 @@ flutter run
 ```
 
 Watch for this screens about my application
-<img src="screenshots/app_mockup.png">
+<img src="screenshots/app_mockup.jpg">
 <img src="screenshots/splash_screen.png">
 <br>
 <img src="screenshots/tasks_screen.png">
