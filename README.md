@@ -7,8 +7,8 @@ This is a simple app for writing today's tasks and future tasks using Sqlite DB 
 - Sqlite "package"
 - BLoC & Cubit "package"
 - Material3
-- Calender
-- Timer
+- Add Calender
+- Add Timer
 
 ## How to use this app
 - You can install application in your device via this repo
@@ -20,6 +20,7 @@ flutter run
 ```
 
 Watch for this screens about my application
+<img src="screenshots/app_mockup.png">
 <img src="screenshots/splash_screen.png">
 <br>
 <img src="screenshots/tasks_screen.png">
