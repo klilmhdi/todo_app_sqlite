@@ -1,4 +1,4 @@
-# ToDo App
+# Tasks Todo App
 ## Getting Started
 This is a simple app for writing today's tasks and future tasks using Sqlite DB to done all operations for (CRUD)
 
